@@ -27,6 +27,9 @@ The application process for the third round of the Challenge Fund will be open b
   <a href="#" class="list-group-item active col-xs-6">
     Publish guidance notes for round 3
   </a>
+  <a href="#" class="list-group-item active col-xs-6">
+    20th July
+  </a>
   <a href="#" class="list-group-item col-xs-6">Application process open</a>
   <a href="#" class="list-group-item col-xs-6">Applications are assessed by the Digital team</a>
   <a href="#" class="list-group-item col-xs-6">The Leadership Groups signs off on proposals</a>
