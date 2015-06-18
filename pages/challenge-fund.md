@@ -2,24 +2,26 @@
 layout: page
 title: Challenge Fund
 excerpt: There are great digital participation projects going on across Scotland. We want to support existing projects to do more, and encourage new projects to get started.
-alert: This fund is currently closed. We will post an update for 2015-16 as soon as possible. If you would like to see a list of successful Challenge Fund organisations please scroll down. 
+alert: We have secured funding for a third round of the Digital Challenge Fund - for more information, see below 
 permalink: /resources/challenge-fund/
 ---
 
 
-In 2014-15, supported by the [Scottish Government](http://www.gov.scot) and the ERDF, we will be awarding more than £200,000 to community digital participation projects across Scotland. This will enable groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world. We expect awards to range from £200 to £10,000. Awards over £10,000 will only be considered in exceptional circumstances.
+In 2014-15, supported by the [Scottish Government](http://www.gov.scot) and the ERDF, we awarded more than £200,000 to community digital participation projects across Scotland. These projects have enabled groups and organisations to digitise content, build digital networks and improve the digital skills of their members, so that they can continue to thrive in the digital world. 
+
+Now we want to do it all again! 
+
+## Call 3 
+
+Applications will soon be accepted for the third round of the Challenge Fund, so if you work for or know an organisation that's helping to develop the basic digital skills of customers or its own staff then please read the guidance notes below and submit an application.
+
+We expect awards to range from £200 to £10,000. Awards over £10,000 will only be considered in exceptional circumstances.
 
 We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can apply for in-kind support as well as, or instead of, a financial award.
 
 All successful applicants will have a [project page on this website](/projects/) where they can tell their story, so that others can see what works and learn from their experience.
 
 For more information please [contact us](/contact/).
-
-![ERDF](/images/erdf.jpg)
-
-## Call 3 
-
-The application process for the third round of the Challenge Fund will be open between the 27th July and the 04th September.  For more information on the process, please read all of the information below.
 
 ### Call 3 timeline
 
@@ -134,3 +136,6 @@ You can find out more about what's been funded on our [project pages](/projects/
 ## Call 1 (Winter 2014)
 
 Over 70 applications were made to Call 1, and the [Digital Participation Leadership Group](/about/) made 25 direct offers of funding. You can find out more about what's been funded on our [project pages](/projects/). We are also following up with a number of applicants to seek alternative support for their projects from organisations that have signed [Scotland's Digital Participation Charter](/charter/).
+
+
+![ERDF](/images/erdf.jpg)
