@@ -48,7 +48,7 @@ The application process for the third round of the Challenge Fund will be open b
 #### Stage 2
 
 <div class="row">
-<div class="list-group">
+<table class="table table-bordered">
   <a href="#" class="list-group-item col-xs-6">Stage 2 instuctions sent out</a>
   <a href="#" class="list-group-item col-xs-4">12th October - 16th October</a>
   <a href="#" class="list-group-item col-xs-6">Project plans and payment schedule submission deadline</a>
@@ -59,6 +59,7 @@ The application process for the third round of the Challenge Fund will be open b
   <a href="#" class="list-group-item col-xs-4">10th of each month</a>
 </div>
 </div>
+</table>
 
 
 ## Call 2 (Spring 2015) 
