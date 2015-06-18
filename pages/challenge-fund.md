@@ -21,6 +21,25 @@ For more information please [contact us](/contact/).
 
 The application process for the third round of the Challenge Fund will be open between the 27th July and the 04th September.  For more information on the process, please read all of the information below.
 
+### Call 3 timeline
+
+<div class="list-group">
+  <a href="#" class="list-group-item active">
+    Publish guidance notes for round 3
+  </a>
+  <a href="#" class="list-group-item">Application process open</a>
+  <a href="#" class="list-group-item">Applications are assessed by the Digital team</a>
+  <a href="#" class="list-group-item">The Leadership Groups signs off on proposals</a>
+  <a href="#" class="list-group-item">Sucessful applicants will be notified</a>
+</div>
+
+<div class="list-group">
+  <a href="#" class="list-group-item">Stage 2 instuctions sent out</a>
+  <a href="#" class="list-group-item">Project plans and payment schedule submission deadline</a>
+  <a href="#" class="list-group-item">First payments made</a>
+  <a href="#" class="list-group-item">Future monthly payments made</a>
+</div>
+
 ## Call 2 (Spring 2015) 
 
 With 150 great applications received for Call 2, we are delighted to announce that the [Digital Participation Leadership Group](/about/) has made 33 direct offers of funding for digital participation projects. The organisations who will be receiving funding are listed below:
