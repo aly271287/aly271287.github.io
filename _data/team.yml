@@ -1,0 +1,51 @@
+- name: Chris Yiu
+  job: Director
+  image: chris.png
+  phone: 0131 524 7283
+  email: chris.yiu@scvo.org.uk
+  twitter: clry2
+  linkedin: http://www.linkedin.com/in/clry2
+- name: Sally Dyson
+  job: Head of Digital Participation
+  image: sally.jpg
+  phone: 0131 474 8006
+  email: sally.dyson@scvo.org.uk
+  twitter: sallyld
+  linkedin: http://www.linkedin.com/pub/sally-dyson/25/497/287
+- name: Gavin Bell
+  job: Milo Programme Manager
+  image: gavin.jpg
+  phone: 0141 559 5004
+  email: gavin.bell@scvo.org.uk
+  twitter: GavinDigital
+  linkedin: https://www.linkedin.com/pub/gavin-bell/4a/583/168
+- name: Beverley Maclean
+  job: "Development Officer<br />Interns Highlands & Islands"
+  image: beverley.jpg
+  phone: 01463 251 723
+  email: beverley.maclean@scvo.org.uk
+  twitter: bevlington
+  linkedin: https://www.linkedin.com/profile/view?id=119513998
+- name: Alastair Watson
+  job: "Development Officer<br />Interns Lowlands & Uplands"
+  image: alastair.jpg
+  phone: 0131 524 7288
+  email: alastair.watson@scvo.org.uk
+  twitter: digit_aly
+  linkedin: https://www.linkedin.com/pub/alastair-watson/41/88b/2b2
+- name: Rebecca Stafford
+  job: Team Support Officer
+  image: rebecca.jpg
+  phone: 0131 474 8028
+  email: rebecca.stafford@scvo.org.uk
+  twitter: digibecca
+  linkedin:
+- name: Andrew Watson
+  job: Digital Assistant
+  image: andrew.jpg
+  email: andrew.watson@scvo.org.uk
+- name: Rikki Dobson
+  job: Digital Assistant
+  image: rikki.jpg
+  email: rikki.dobson@scvo.org.uk
+  
