@@ -42,7 +42,6 @@ The application process for the third round of the Challenge Fund will be open b
   <a href="#" class="list-group-item col-xs-6">Sucessful applicants will be notified</a>
   <a href="#" class="list-group-item col-xs-4">12th October</a>
 </div>
-</div>
 </table>
 
 #### Stage 2
@@ -57,7 +56,6 @@ The application process for the third round of the Challenge Fund will be open b
   <a href="#" class="list-group-item col-xs-4">11th January</a>
   <a href="#" class="list-group-item col-xs-6">Future monthly payments made</a>
   <a href="#" class="list-group-item col-xs-4">10th of each month</a>
-</div>
 </div>
 </table>
 
