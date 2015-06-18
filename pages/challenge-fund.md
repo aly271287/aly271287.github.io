@@ -27,21 +27,31 @@ The application process for the third round of the Challenge Fund will be open b
   <a href="#" class="list-group-item active col-xs-6">
     Publish guidance notes for round 3
   </a>
-  <a href="#" class="list-group-item active col-xs-6">
+  <a href="#" class="list-group-item active col-xs-4">
     20th July
   </a>
   <a href="#" class="list-group-item col-xs-6">Application process open</a>
+  <a href="#" class="list-group-item col-xs-4">27th July - 04th September</a>
   <a href="#" class="list-group-item col-xs-6">Applications are assessed by the Digital team</a>
+  <a href="#" class="list-group-item col-xs-4">04th September - 16th September </a>
   <a href="#" class="list-group-item col-xs-6">The Leadership Groups signs off on proposals</a>
+  <a href="#" class="list-group-item col-xs-4">By the 09th October</a>
   <a href="#" class="list-group-item col-xs-6">Sucessful applicants will be notified</a>
+  <a href="#" class="list-group-item col-xs-4">12th October</a>
 </div>
+
 
 <div class="list-group">
   <a href="#" class="list-group-item col-xs-6">Stage 2 instuctions sent out</a>
+  <a href="#" class="list-group-item col-xs-4">12th October - 16th October</a>
   <a href="#" class="list-group-item col-xs-6">Project plans and payment schedule submission deadline</a>
+  <a href="#" class="list-group-item col-xs-4">16th November</a>
   <a href="#" class="list-group-item col-xs-6">First payments made</a>
+  <a href="#" class="list-group-item col-xs-4">11th January</a>
   <a href="#" class="list-group-item col-xs-6">Future monthly payments made</a>
+  <a href="#" class="list-group-item col-xs-4">10th of each month</a>
 </div>
+
 
 ## Call 2 (Spring 2015) 
 
