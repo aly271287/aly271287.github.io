@@ -35,23 +35,23 @@ The application process for the third round of the Challenge Fund will be open b
     </thead>
     <tbody>
       <tr>
-        <td>Publish guidance notes for round 3</td>
+        <td class="col-md-6">Publish guidance notes for round 3</td>
         <td>20th July</td>
       </tr>
       <tr>
-      <td>Application process open</td>
+      <td class="col-md-6">Application process open</td>
         <td>27th July - 04th September</td>
       </tr>
 	  <tr>
-      <td>Applications are assessed by the Digital team</td>
+      <td class="col-md-6">Applications are assessed by the Digital team</td>
         <td>04th September - 16th September</td>
       </tr>
   		<tr>
-      <td>The Leadership Groups signs off on proposals</td>
+      <td class="col-md-6">The Leadership Groups signs off on proposals</td>
         <td>By the 09th October</td>
       </tr>
   		<tr>
-      <td>Sucessful applicants will be notified</td>
+      <td class="col-md-6">Sucessful applicants will be notified</td>
         <td>12th October</td>
       </tr>
       </tbody>
@@ -70,19 +70,19 @@ The application process for the third round of the Challenge Fund will be open b
     </thead>
     <tbody>
       <tr>
-        <td>tage 2 instuctions sent out</td>
+        <td class="col-md-6">Stage 2 instuctions sent out</td>
         <td>12th October - 16th October</td>
       </tr>
       <tr>
-      <td>Project plans and payment schedule submission deadline</td>
+      <td class="col-md-6">Project plans and payment schedule submission deadline</td>
         <td>16th November</td>
       </tr>
 	  <tr>
-      <td>First payments made</td>
+      <td class="col-md-6">First payments made</td>
         <td>11th January</td>
       </tr>
   		<tr>
-      <td>Future monthly payments made</td>
+      <td class="col-md-6">Future monthly payments made</td>
         <td>10th of each month</td>
       </tr>
       </tbody>
