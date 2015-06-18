@@ -31,15 +31,15 @@ The application process for the third round of the Challenge Fund will be open b
   <tr class="active col-xs-6">Publish guidance notes for round 3</tr>
   <tr class="active col-xs-4">20th July</tr>
   <tr class="col-xs-6">Application process open</tr>
-  <tr href="#" class="list-group-item col-xs-4">27th July - 04th September</tr>
-  <tr href="#" class="list-group-item col-xs-6">Applications are assessed by the Digital team</tr>
-  <tr href="#" class="list-group-item col-xs-4">04th September - 16th September </tr>
-  <tr href="#" class="list-group-item col-xs-6">The Leadership Groups signs off on proposals</tr>
-  <tr href="#" class="list-group-item col-xs-4">By the 09th October</tr>
-  <tr href="#" class="list-group-item col-xs-6">Sucessful applicants will be notified</tr>
-  <tr href="#" class="list-group-item col-xs-4">12th October</tr>
-</div>
+  <tr class="col-xs-4">27th July - 04th September</tr>
+  <tr class="col-xs-6">Applications are assessed by the Digital team</tr>
+  <tr class="col-xs-4">04th September - 16th September </tr>
+  <tr class="col-xs-6">The Leadership Groups signs off on proposals</tr>
+  <tr class="col-xs-4">By the 09th October</tr>
+  <tr class="col-xs-6">Sucessful applicants will be notified</tr>
+  <tr class="col-xs-4">12th October</tr>
 </table>
+</div>
 
 #### Stage 2
 
@@ -53,9 +53,9 @@ The application process for the third round of the Challenge Fund will be open b
   <a href="#" class="list-group-item col-xs-4">11th January</a>
   <a href="#" class="list-group-item col-xs-6">Future monthly payments made</a>
   <a href="#" class="list-group-item col-xs-4">10th of each month</a>
-</div>
-</table>
 
+</table>
+</div>
 
 ## Call 2 (Spring 2015) 
 
