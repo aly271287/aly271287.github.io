@@ -24,7 +24,7 @@ The application process for the third round of the Challenge Fund will be open b
 ### Call 3 timeline
 
 <div class="list-group">
-  <a href="#" class="list-group-item active">
+  <a href="#" class="list-group-item active col-xs-6">
     Publish guidance notes for round 3
   </a>
   <a href="#" class="list-group-item col-xs-6">Application process open</a>
@@ -34,10 +34,10 @@ The application process for the third round of the Challenge Fund will be open b
 </div>
 
 <div class="list-group">
-  <a href="#" class="list-group-item">Stage 2 instuctions sent out</a>
-  <a href="#" class="list-group-item">Project plans and payment schedule submission deadline</a>
-  <a href="#" class="list-group-item">First payments made</a>
-  <a href="#" class="list-group-item">Future monthly payments made</a>
+  <a href="#" class="list-group-item col-xs-6">Stage 2 instuctions sent out</a>
+  <a href="#" class="list-group-item col-xs-6">Project plans and payment schedule submission deadline</a>
+  <a href="#" class="list-group-item col-xs-6">First payments made</a>
+  <a href="#" class="list-group-item col-xs-6">Future monthly payments made</a>
 </div>
 
 ## Call 2 (Spring 2015) 
