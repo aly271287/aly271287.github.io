@@ -26,7 +26,7 @@ The application process for the third round of the Challenge Fund will be open b
 #### Stage 1
 
 <div class="row">
-<div class="list-group">
+<table class="table table-bordered">
   <a href="#" class="list-group-item active col-xs-6">
     Publish guidance notes for round 3
   </a>
