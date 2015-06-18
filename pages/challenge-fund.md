@@ -62,15 +62,30 @@ The application process for the third round of the Challenge Fund will be open b
 
 <div class="row">
 <table class="table table-bordered">
-  <a href="#" class="list-group-item col-xs-6">Stage 2 instuctions sent out</a>
-  <a href="#" class="list-group-item col-xs-4">12th October - 16th October</a>
-  <a href="#" class="list-group-item col-xs-6">Project plans and payment schedule submission deadline</a>
-  <a href="#" class="list-group-item col-xs-4">16th November</a>
-  <a href="#" class="list-group-item col-xs-6">First payments made</a>
-  <a href="#" class="list-group-item col-xs-4">11th January</a>
-  <a href="#" class="list-group-item col-xs-6">Future monthly payments made</a>
-  <a href="#" class="list-group-item col-xs-4">10th of each month</a>
-
+ <thead>
+      <tr>
+        <th>Milestone</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>tage 2 instuctions sent out</td>
+        <td>12th October - 16th October</td>
+      </tr>
+      <tr>
+      <td>Project plans and payment schedule submission deadline</td>
+        <td>16th November</td>
+      </tr>
+	  <tr>
+      <td>First payments made</td>
+        <td>11th January</td>
+      </tr>
+  		<tr>
+      <td>Future monthly payments made</td>
+        <td>10th of each month</td>
+      </tr>
+      </tbody>
 </table>
 </div>
 
