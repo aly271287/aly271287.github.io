@@ -43,6 +43,7 @@ The application process for the third round of the Challenge Fund will be open b
   <a href="#" class="list-group-item col-xs-4">12th October</a>
 </div>
 </div>
+</table>
 
 #### Stage 2
 
