@@ -22,7 +22,7 @@ For more information please [contact us](/contact/).
 The application process for the third round of the Challenge Fund will be open between the 27th July and the 04th September.  For more information on the process, please read all of the information below.
 
 ### Call 3 timeline
-
+<div row>
 <div class="list-group">
   <a href="#" class="list-group-item active col-xs-6">
     Publish guidance notes for round 3
@@ -39,8 +39,9 @@ The application process for the third round of the Challenge Fund will be open b
   <a href="#" class="list-group-item col-xs-6">Sucessful applicants will be notified</a>
   <a href="#" class="list-group-item col-xs-4">12th October</a>
 </div>
+</div>
 
-
+<div row>
 <div class="list-group">
   <a href="#" class="list-group-item col-xs-6">Stage 2 instuctions sent out</a>
   <a href="#" class="list-group-item col-xs-4">12th October - 16th October</a>
@@ -50,6 +51,7 @@ The application process for the third round of the Challenge Fund will be open b
   <a href="#" class="list-group-item col-xs-4">11th January</a>
   <a href="#" class="list-group-item col-xs-6">Future monthly payments made</a>
   <a href="#" class="list-group-item col-xs-4">10th of each month</a>
+</div>
 </div>
 
 
