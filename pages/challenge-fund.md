@@ -35,8 +35,8 @@ The application process for the third round of the Challenge Fund will be open b
     </thead>
     <tbody>
       <tr>
-        <td class="active col-md-6">Publish guidance notes for round 3</td>
-        <td class="active">20th July</td>
+        <td class="success col-md-6">Publish guidance notes for round 3</td>
+        <td class="success">20th July</td>
       </tr>
       <tr>
       <td class="col-md-6">Application process open</td>
