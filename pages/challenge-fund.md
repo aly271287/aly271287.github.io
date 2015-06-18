@@ -27,17 +27,34 @@ The application process for the third round of the Challenge Fund will be open b
 
 <div class="row">
 <table class="table table-bordered">
-
-  <tr class="active col-xs-6">Publish guidance notes for round 3</tr>
-  <tr class="active col-xs-4">20th July</tr>
-  <tr class="col-xs-6">Application process open</tr>
-  <tr class="col-xs-4">27th July - 04th September</tr>
-  <tr class="col-xs-6">Applications are assessed by the Digital team</tr>
-  <tr class="col-xs-4">04th September - 16th September </tr>
-  <tr class="col-xs-6">The Leadership Groups signs off on proposals</tr>
-  <tr class="col-xs-4">By the 09th October</tr>
-  <tr class="col-xs-6">Sucessful applicants will be notified</tr>
-  <tr class="col-xs-4">12th October</tr>
+ <thead>
+      <tr>
+        <th>Milestone</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Publish guidance notes for round 3</td>
+        <td>20th July</td>
+      </tr>
+      <tr>
+      <td>Application process open</td>
+        <td>27th July - 04th September</td>
+      </tr>
+	  <tr>
+      <td>Applications are assessed by the Digital team</td>
+        <td>04th September - 16th September</td>
+      </tr>
+  		<tr>
+      <td>The Leadership Groups signs off on proposals</td>
+        <td>By the 09th October</td>
+      </tr>
+  		<tr>
+      <td>Sucessful applicants will be notified</td>
+        <td>12th October</td>
+      </tr>
+      </tbody>
 </table>
 </div>
 
