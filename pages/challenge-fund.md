@@ -27,7 +27,6 @@ For more information please [contact us](/contact/).
 
 #### Stage 1
 
-<div class="row">
 <table class="table table-bordered">
  <thead>
       <tr>
@@ -58,7 +57,6 @@ For more information please [contact us](/contact/).
       </tr>
       </tbody>
 </table>
-</div>
 
 #### Stage 2
 
