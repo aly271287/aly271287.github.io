@@ -62,7 +62,6 @@ For more information please [contact us](/contact/).
 
 #### Stage 2
 
-<div class="row">
 <table class="table table-bordered">
  <thead>
       <tr>
@@ -89,7 +88,6 @@ For more information please [contact us](/contact/).
       </tr>
       </tbody>
 </table>
-</div>
 
 ## Call 2 (Spring 2015) 
 
