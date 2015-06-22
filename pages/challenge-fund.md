@@ -17,7 +17,7 @@ Applications will soon be accepted for the third round of the Challenge Fund, so
 
 We expect awards to range from £200 to £10,000. Awards over £10,000 will only be considered in exceptional circumstances.
 
-We are also working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can apply for in-kind support as well as, or instead of, a financial award.
+We are also testing working closely with organisations that have signed [Scotland's Digital Participation Charter](/charter/) to identify additional in-kind support (e.g. donations of equipment and volunteers). You can apply for in-kind support as well as, or instead of, a financial award.
 
 All successful applicants will have a [project page on this website](/projects/) where they can tell their story, so that others can see what works and learn from their experience.
 
